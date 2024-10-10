@@ -1,1 +1,1 @@
-# Authorative-server-for-Network-of-applications
+# dns_app
